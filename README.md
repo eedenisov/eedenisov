@@ -13,6 +13,8 @@
 * Git (GitHub)
 * Intellij IDEA
 * Visual Studio Code
+* Postman
+* VisualVM
 </br>
 </br>
 
