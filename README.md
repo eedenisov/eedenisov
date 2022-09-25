@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Evgeniy 🤝</h1> 
-<h3 align="center">Java developer from Russia 🇷🇺</h3>
+<h2 align="center">Hi there, I'm Evgeniy 🤝 </h2>
+<h3 align="center">Java developer</h3>
 
 ## My skills:
 * Java (Basics, Collection, Stream API, Networking, Core, Multithreading)
