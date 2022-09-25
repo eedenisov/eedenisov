@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Evgeniy 🤝</h1> 
+<h3 align="center">Java developer from Russia 🇷🇺</h3>
 
-<!--
-**eedenisov/eedenisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills:
+* Java (Basics, Collection, Stream API, Networking, Core, Multithreading)
+* Design patterns (Builder, Singleton, Factory, Method, Proxy, Decorator, Adapter, Command, Iterator)
+* SQL (MySQL, PostgreSQL)
+* Spring framework (Core, JDBC Template, Web, Data, Boot, Security)
+* ORM (Hibernate)
+* REST, Jackson
+* HTML, CSS, Thymeleaf
+* Unit Testing (JUnit, Mockito)
+* Git (GitHub)
+* Intellij IDEA
+* Visual Studio Code
+</br>
+</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+  <image align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)" alt="java"/>
+</h2>
