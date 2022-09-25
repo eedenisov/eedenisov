@@ -16,6 +16,6 @@
 </br>
 </br>
 
-<h2 align="center">
+<h3 align="center">
   <image align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)" alt="java"/>
-</h2>
+</h3>
